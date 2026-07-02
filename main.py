@@ -360,3 +360,7 @@ if __name__ == "__main__":
     window.show()
 
     sys.exit(app.exec())
+
+# Логика расчетов написана на основе статьи:
+# https://habr.com/ru/articles/586730/
+# Дополнено и изменено: Senga
